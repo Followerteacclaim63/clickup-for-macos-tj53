@@ -1,4 +1,4 @@
-#  
+#  ClickUp for macOS custom Extension: real-time editing & version history is the best ClickUp for macOS extension, featuring real-time editing and version history. Safe, efficient,
 
 
 
